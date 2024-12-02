@@ -1,3 +1,5 @@
-streamlit==1.40.2  # Última versão do Streamlit (verifique a versão instalada no terminal)
+streamlit==1.40.2  # Última versão do Streamlit
 streamlit-option-menu==0.4.0  # Para o menu lateral com ícones
 requests==2.32.3  # Para requisições HTTP (usado para acessar a API do IBGE)
+streamlit-on-hover-tabs==1.0.1  # Biblioteca para abas com hover
+PyGithub==2.5.0

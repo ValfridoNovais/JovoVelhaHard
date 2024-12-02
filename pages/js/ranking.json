@@ -1,14 +1,14 @@
 {
     "Valfrido Novais": {
-        "points": 3,
-        "wins": 1,
-        "draws": 0,
+        "points": 10,
+        "wins": 3,
+        "draws": 1,
         "losses": 2
     },
     "Marina Novais": {
-        "points": 6,
+        "points": 7,
         "wins": 2,
-        "draws": 0,
-        "losses": 1
+        "draws": 1,
+        "losses": 3
     }
 }

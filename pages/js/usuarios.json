@@ -1,28 +1,32 @@
 {
-    "Valfrido Novais": {
-        "birth_date": "1985-08-24",
-        "age": 39,
-        "city": "Te\u00f3filo Otoni",
-        "state": "Minas Gerais",
-        "ranking": {
-            "wins": 1,
-            "draws": 1,
-            "losses": 0,
-            "forfeits": 0,
-            "points": 4
-        }
-    },
-    "Marina Novais": {
-        "birth_date": "2012-07-29",
-        "age": 12,
-        "city": "Te\u00f3filo Otoni",
-        "state": "Minas Gerais",
-        "ranking": {
-            "wins": 0,
-            "draws": 1,
-            "losses": 1,
-            "forfeits": 0,
-            "points": 1
+    "users": {
+        "Valfrido Novais": {
+            "birth_date": "1985-08-24",
+            "age": 39,
+            "city": "Teófilo Otoni",
+            "state": "Minas Gerais",
+            "password": "hashed_password1",  // Substituir com hash seguro
+            "ranking": {
+                "wins": 1,
+                "draws": 1,
+                "losses": 0,
+                "forfeits": 0,
+                "points": 4
+            }
+        },
+        "Marina Novais": {
+            "birth_date": "2012-07-29",
+            "age": 12,
+            "city": "Teófilo Otoni",
+            "state": "Minas Gerais",
+            "password": "hashed_password2",  // Substituir com hash seguro
+            "ranking": {
+                "wins": 0,
+                "draws": 1,
+                "losses": 1,
+                "forfeits": 0,
+                "points": 1
+            }
         }
     }
 }

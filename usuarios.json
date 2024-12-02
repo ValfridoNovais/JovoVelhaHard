@@ -1,0 +1,74 @@
+{
+    "users": {
+        "Val": {
+            "birth_date": "1985-08-24",
+            "age": 39,
+            "city": "Teófilo Otoni",
+            "state": "Minas Gerais",
+            "password": "123abc",
+            "ranking": {
+                "wins": 0,
+                "draws": 0,
+                "losses": 0,
+                "forfeits": 0,
+                "points": 0
+            }
+        },
+        "Pedro Novais": {
+            "birth_date": "2014-02-04",
+            "age": 10,
+            "city": "Teófilo Otoni",
+            "state": "Minas Gerais",
+            "password": "123abc",
+            "ranking": {
+                "wins": 0,
+                "draws": 0,
+                "losses": 0,
+                "forfeits": 0,
+                "points": 0
+            }
+        },
+        "Marina Novais": {
+            "birth_date": "2012-07-29",
+            "age": 12,
+            "city": "Teófilo Otoni",
+            "state": "Minas Gerais",
+            "password": "123abc",
+            "ranking": {
+                "wins": 0,
+                "draws": 0,
+                "losses": 0,
+                "forfeits": 0,
+                "points": 0
+            }
+        },
+        "Thaíse Novais": {
+            "birth_date": "1989-10-28",
+            "age": 35,
+            "city": "Teófilo Otoni",
+            "state": "Minas Gerais",
+            "password": "123abc",
+            "ranking": {
+                "wins": 0,
+                "draws": 0,
+                "losses": 0,
+                "forfeits": 0,
+                "points": 0
+            }
+        },
+        "Gabriel Novais": {
+            "birth_date": "2018-10-23",
+            "age": 6,
+            "city": "Teófilo Otoni",
+            "state": "Minas Gerais",
+            "password": "123abc",
+            "ranking": {
+                "wins": 0,
+                "draws": 0,
+                "losses": 0,
+                "forfeits": 0,
+                "points": 0
+            }
+        }
+    }
+}
